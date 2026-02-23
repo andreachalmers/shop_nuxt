@@ -28,8 +28,6 @@ npm run build
 npm run preview
 ```
 
-Das Build-Ergebnis liegt in `.output/`. Deploy mit `node .output/server/index.mjs` oder jedem Node-kompatiblen Host.
-
 ## Projektstruktur
 
 ```
